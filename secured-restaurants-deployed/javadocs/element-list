@@ -1,0 +1,8 @@
+com.lambdaschool.restaurants
+com.lambdaschool.restaurants.config
+com.lambdaschool.restaurants.controllers
+com.lambdaschool.restaurants.models
+com.lambdaschool.restaurants.repos
+com.lambdaschool.restaurants.services
+com.lambdaschool.restaurants.views
+com.lambdaschool.usermodel.config
